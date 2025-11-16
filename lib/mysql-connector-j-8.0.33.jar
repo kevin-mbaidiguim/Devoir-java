@@ -1,0 +1,6 @@
+// Fichier .vscode/settings.json
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
